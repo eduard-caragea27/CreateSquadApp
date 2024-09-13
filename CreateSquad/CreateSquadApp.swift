@@ -11,7 +11,7 @@ import SwiftUI
 struct CreateSquadApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           WelcomeScreenView()
         }
     }
 }
